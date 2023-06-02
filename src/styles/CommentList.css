@@ -1,0 +1,8 @@
+.newCommentListCard {
+  min-width: 300px;
+  min-height: 250px;
+}
+
+.comment-color {
+  color: gray;
+}
